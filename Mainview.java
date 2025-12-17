@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public static void main(String[] args) {
-    public class Mainview {
+    class Mainview {
         Scanner sc = new Scanner(System.in);
         Mainview() {
             System.out.println("Who is better mika or sina");
@@ -14,3 +14,5 @@ public static void main(String[] args) {
         }
     }
 }
+
+
