@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 class WelcomeView {
     WelcomeView() {
+        int tripleT;
         int gabe = 5;
         System.out.println("Gabe is a sigma boy");
         Scanner sc = new Scanner(System.in);
