@@ -9,6 +9,8 @@ class WelcomeView {
         String answer = sc.nextLine();
         if (answer.equals("Yes")) {
             System.out.println("Goodboy");
+        } else {
+            System.out.println(" Triple T will get you... I promise");
         }
 
     }
